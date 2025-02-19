@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on making a registration form for parents to sign up their kids at the company I work at
+- 🌱 I’m currently brushing up on all my skills MERN-wise
+- 📫 How to reach me: Details in my bio
 
 <!--
 **KhutsoJ/KhutsoJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
